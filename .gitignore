@@ -1,0 +1,19 @@
+# Ignore HTML files
+*.html
+
+# Ignore PNG images
+*.png
+
+# Ignore JPG images
+*.jpg
+*.jpeg
+
+# Ignore PDF files
+*.pdf
+
+# Ignore virtual environment folder
+.venv/
+
+# Ignore JetBrains IDE settings folder
+.idea/
+__pycache__/
